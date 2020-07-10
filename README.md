@@ -1,5 +1,7 @@
 # pandas-challenge
 
+## Generated a report that breaks down the game's purchasing data into meaningful insights.
+
 ### Player Count
 
 ### Total Number of Players
